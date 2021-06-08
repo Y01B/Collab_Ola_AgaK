@@ -676,3 +676,44 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.06.08-21.43.48:917][ 10]AssetCheck: New page: Asset Save: multiple assets
 [2021.06.08-21.43.48:917][ 10]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
 [2021.06.08-21.43.48:917][ 10]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2021.06.08-21.46.13:284][805]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.06.08-21.46.16:431][976]Cmd: TRANSACTION UNDO
+[2021.06.08-21.46.16:431][976]LogEditorTransaction: Undo Move Actors
+[2021.06.08-21.46.20:181][165]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bush)
+[2021.06.08-21.46.23:427][356]Cmd: TRANSACTION UNDO
+[2021.06.08-21.46.23:427][356]LogEditorTransaction: Undo Move Actors
+[2021.06.08-21.46.38:052][183]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2021.06.08-21.46.45:672][564]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bush3)
+[2021.06.08-21.46.46:466][604]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bush2)
+[2021.06.08-21.46.48:272][708]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bush3)
+[2021.06.08-21.46.50:091][813]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bush4)
+[2021.06.08-21.46.52:676][958]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.06.08-21.47.01:497][435]LogActorFactory: Actor Factory created SM_MatPreviewMesh_02
+[2021.06.08-21.47.02:436][482]LogActorFactory: Actor Factory created SM_MatPreviewMesh_02
+[2021.06.08-21.47.03:058][516]Cmd: TRANSACTION UNDO
+[2021.06.08-21.47.03:058][516]LogEditorTransaction: Undo Create Actors
+[2021.06.08-21.47.03:861][527]LogActorFactory: Actor Factory created SM_Rock
+[2021.06.08-21.47.04:927][560]LogActorFactory: Actor Factory created SM_Rock
+[2021.06.08-21.47.13:211][ 38]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.06.08-21.47.32:218][371]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.06.08-21.47.32:564][371]LogSavePackage: Moving '../../../../../../Collab/Collab/Saved/Minimal_DefaultF9A62C9C41C19F59C55273A3707DCC23.tmp' to '../../../../../../Collab/Collab/Content/StarterContent/Maps/Minimal_Default.umap'
+[2021.06.08-21.47.32:580][371]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Minimal_Default_BuiltData" FILE="../../../../../../Collab/Collab/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" SILENT=true
+[2021.06.08-21.47.32:681][371]LogSavePackage: Moving '../../../../../../Collab/Collab/Saved/Minimal_Default_BuiltData27624BBB405963B75545458FBAC910D3.tmp' to '../../../../../../Collab/Collab/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2021.06.08-21.47.32:701][371]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.08-21.47.32:701][371]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2021.06.08-21.47.32:701][371]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2021.06.08-21.47.44:779][621]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.06.08-21.47.45:068][621]LogSavePackage: Moving '../../../../../../Collab/Collab/Saved/Minimal_Default644B9B764B35274850B69EBD288E8104.tmp' to '../../../../../../Collab/Collab/Content/StarterContent/Maps/Minimal_Default.umap'
+[2021.06.08-21.47.45:084][621]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Minimal_Default_BuiltData" FILE="../../../../../../Collab/Collab/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" SILENT=true
+[2021.06.08-21.47.45:272][621]LogSavePackage: Moving '../../../../../../Collab/Collab/Saved/Minimal_Default_BuiltDataBF14C2A049F1057B6BA61AA439D3B476.tmp' to '../../../../../../Collab/Collab/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2021.06.08-21.47.45:318][621]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.08-21.47.45:318][621]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2021.06.08-21.47.45:318][621]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2021.06.08-21.48.15:136][142]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.06.08-21.48.22:588][564]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.06.08-21.48.22:881][564]LogSavePackage: Moving '../../../../../../Collab/Collab/Saved/Minimal_Default33D6BC2043921F414C274DB34A84B9E3.tmp' to '../../../../../../Collab/Collab/Content/StarterContent/Maps/Minimal_Default.umap'
+[2021.06.08-21.48.22:899][564]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Minimal_Default_BuiltData" FILE="../../../../../../Collab/Collab/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" SILENT=true
+[2021.06.08-21.48.23:091][564]LogSavePackage: Moving '../../../../../../Collab/Collab/Saved/Minimal_Default_BuiltData3C36BC44433B31B0081571B4E5EB3234.tmp' to '../../../../../../Collab/Collab/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2021.06.08-21.48.23:118][564]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.08-21.48.23:119][564]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2021.06.08-21.48.23:119][564]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
