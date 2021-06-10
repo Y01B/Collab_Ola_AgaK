@@ -781,3 +781,185 @@ Script Stack (0 frames):
 [2021.06.10-07.38.02:822][985]LogOutputDevice: Error: [Callstack] 0x00007ffe49ed7034 KERNEL32.DLL!UnknownFunction []
 [2021.06.10-07.38.02:822][985]LogOutputDevice: Error: [Callstack] 0x00007ffe4a862651 ntdll.dll!UnknownFunction []
 [2021.06.10-07.38.02:822][985]LogOutputDevice: Error: 
+[2021.06.10-07.38.02:862][985]LogStats:                SubmitErrorReport -  0.000 s
+[2021.06.10-07.38.13:307][985]LogStats:                    SendNewReport - 10.445 s
+[2021.06.10-07.38.13:307][985]LogStats:             FDebug::EnsureFailed - 14.071 s
+[2021.06.10-07.39.52:621][827]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Feature_Aga/CubeDamage" FILE="../../../../../../Collab/Collab/Content/Feature_Aga/CubeDamage.uasset" SILENT=true
+[2021.06.10-07.39.52:866][827]LogSavePackage: Moving '../../../../../../Collab/Collab/Saved/CubeDamage73C7D07E45F3DC3F11BA0D8A14955E91.tmp' to '../../../../../../Collab/Collab/Content/Feature_Aga/CubeDamage.uasset'
+[2021.06.10-07.39.52:996][827]AssetCheck: New page: Asset Save: CubeDamage
+[2021.06.10-07.39.52:996][827]LogContentValidation: Display: Validating Blueprint /Game/Feature_Aga/CubeDamage.CubeDamage
+[2021.06.10-07.39.53:856][854]BlueprintLog: New page: Compile CubeDamage
+[2021.06.10-07.39.54:193][854]LogUObjectHash: Compacting FUObjectHashTables data took   6.73ms
+[2021.06.10-07.39.55:947][925]LogSlate: Window 'CubeDamage' being destroyed
+[2021.06.10-07.39.55:986][925]LogSlate: Window 'CubeDamage' being destroyed
+[2021.06.10-07.39.56:023][925]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.06.10-07.39.56:023][925]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.10-07.40.08:722][560]LogPhysics: Warning: Scale for /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.CubeDamage_2.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.06.10-07.40.08:722][560]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.CubeDamage_2.Cube' 
+[2021.06.10-07.40.08:723][560]LogPhysics: Warning: Scale for /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.CubeDamage_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.06.10-07.40.08:723][560]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.CubeDamage_2.Box' 
+[2021.06.10-07.40.08:723][560]LogPhysics: Warning: Scale for /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.CubeDamage_2.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.06.10-07.40.08:723][560]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.CubeDamage_2.Cube' 
+[2021.06.10-07.40.08:724][560]LogPhysics: Warning: Scale for /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.CubeDamage_2.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.06.10-07.40.08:724][560]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.CubeDamage_2.Cube' 
+[2021.06.10-07.43.17:099][107]LogEditorViewport: Clicking on Actor (LMB): CubeDamage_C (CubeDamage)
+[2021.06.10-07.43.20:034][268]Cmd: DELETE
+[2021.06.10-07.43.20:034][268]Cmd: ACTOR DELETE
+[2021.06.10-07.43.20:420][268]LogEditorActor: Deleted Actor: CubeDamage_C
+[2021.06.10-07.43.20:506][268]LogUObjectHash: Compacting FUObjectHashTables data took   4.47ms
+[2021.06.10-07.43.20:516][268]LogEditorActor: Deleted 1 Actors (0.219 secs)
+[2021.06.10-07.43.31:008][799]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2021.06.10-07.43.31:223][799]LogSavePackage: Moving '../../../../../../Collab/Collab/Saved/Minimal_Default7D82CEDA48502DB6F18E8EBF1352A196.tmp' to '../../../../../../Collab/Collab/Content/StarterContent/Maps/Minimal_Default.umap'
+[2021.06.10-07.43.31:282][799]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Minimal_Default_BuiltData" FILE="../../../../../../Collab/Collab/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" SILENT=true
+[2021.06.10-07.43.31:454][799]LogSavePackage: Moving '../../../../../../Collab/Collab/Saved/Minimal_Default_BuiltData4CC3DDED4A9A76AAAA684FB2BFAC88A5.tmp' to '../../../../../../Collab/Collab/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2021.06.10-07.43.31:490][799]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.10-07.43.31:490][799]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2021.06.10-07.43.31:490][799]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2021.06.10-07.47.59:257][821]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Feature_Aga/CubeDamage.CubeDamage
+[2021.06.10-07.48.05:800][120]LogSlate: Window 'CubeDamage' being destroyed
+[2021.06.10-07.48.05:816][120]LogSlate: Window 'CubeDamage' being destroyed
+[2021.06.10-07.48.05:818][120]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.06.10-07.48.05:818][120]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.10-07.49.48:273][518]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2021.06.10-07.49.48:422][518]LogSlate: Window 'Collab - Unreal Editor' being destroyed
+[2021.06.10-07.49.48:739][519]Cmd: QUIT_EDITOR
+[2021.06.10-07.49.48:739][519]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2021.06.10-07.49.48:825][519]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2021.06.10-07.49.49:284][519]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2021.06.10-07.49.49:317][519]LogExit: Preparing to exit.
+[2021.06.10-07.49.50:361][519]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.06.10-07.49.50:370][519]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.06.10-07.49.50:374][519]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.06.10-07.49.50:697][519]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2021.06.10-07.49.50:941][519]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.06.10-07.49.50:951][519]LogExit: Editor shut down
+[2021.06.10-07.49.50:951][519]LogExit: Transaction tracking system shut down
+[2021.06.10-07.49.52:562][519]LogAISub: UAISubsystem::~UAISubsystem AISubsystem (000001A7F5C71380), frame # 19519
+[2021.06.10-07.49.52:562][519]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001A7F5B16AC0), frame # 19519
+[2021.06.10-07.49.52:621][519]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001A7F5B69C00), frame # 19519
+[2021.06.10-07.49.54:716][519]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001A784FBCC00), frame # 19519
+[2021.06.10-07.49.54:717][519]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001A784F3AC00), frame # 19519
+[2021.06.10-07.49.54:863][519]LogExit: Object subsystem successfully closed.
+[2021.06.10-07.49.55:027][519]LogShaderCompilers: Display: Shaders left to compile 0
+[2021.06.10-07.49.56:433][519]LogModuleManager: Shutting down and abandoning module BlueprintGraph (792)
+[2021.06.10-07.49.56:433][519]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (790)
+[2021.06.10-07.49.56:433][519]LogModuleManager: Shutting down and abandoning module SceneOutliner (788)
+[2021.06.10-07.49.56:433][519]LogModuleManager: Shutting down and abandoning module AddContentDialog (786)
+[2021.06.10-07.49.56:444][519]LogModuleManager: Shutting down and abandoning module WidgetCarousel (785)
+[2021.06.10-07.49.56:444][519]LogModuleManager: Shutting down and abandoning module EditorWidgets (782)
+[2021.06.10-07.49.56:444][519]LogModuleManager: Shutting down and abandoning module CollectionManager (780)
+[2021.06.10-07.49.56:451][519]LogModuleManager: Shutting down and abandoning module StatsViewer (778)
+[2021.06.10-07.49.56:456][519]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (776)
+[2021.06.10-07.49.56:456][519]LogModuleManager: Shutting down and abandoning module FoliageEdit (774)
+[2021.06.10-07.49.56:469][519]LogModuleManager: Shutting down and abandoning module LandscapeEditor (772)
+[2021.06.10-07.49.56:497][519]LogModuleManager: Shutting down and abandoning module MeshPaintMode (770)
+[2021.06.10-07.49.56:505][519]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (768)
+[2021.06.10-07.49.56:505][519]LogModuleManager: Shutting down and abandoning module ActorPickerMode (766)
+[2021.06.10-07.49.56:505][519]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (764)
+[2021.06.10-07.49.56:517][519]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (762)
+[2021.06.10-07.49.56:522][519]LogModuleManager: Shutting down and abandoning module AutomationWorker (760)
+[2021.06.10-07.49.56:527][519]LogModuleManager: Shutting down and abandoning module SteamVREditor (758)
+[2021.06.10-07.49.56:527][519]LogModuleManager: Shutting down and abandoning module OculusMR (756)
+[2021.06.10-07.49.56:536][519]LogModuleManager: Shutting down and abandoning module GooglePADEditor (754)
+[2021.06.10-07.49.56:536][519]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (752)
+[2021.06.10-07.49.56:536][519]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (750)
+[2021.06.10-07.49.56:563][519]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (748)
+[2021.06.10-07.49.56:573][519]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (746)
+[2021.06.10-07.49.56:609][519]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (744)
+[2021.06.10-07.49.56:632][519]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (742)
+[2021.06.10-07.49.56:632][519]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (740)
+[2021.06.10-07.49.56:632][519]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (738)
+[2021.06.10-07.49.56:632][519]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (736)
+[2021.06.10-07.49.56:632][519]LogModuleManager: Shutting down and abandoning module WebMMedia (734)
+[2021.06.10-07.49.56:638][519]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (732)
+[2021.06.10-07.49.56:651][519]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (730)
+[2021.06.10-07.49.56:660][519]LogModuleManager: Shutting down and abandoning module SequenceRecorder (729)
+[2021.06.10-07.49.56:663][519]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (726)
+[2021.06.10-07.49.56:663][519]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (724)
+[2021.06.10-07.49.56:663][519]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (722)
+[2021.06.10-07.49.56:663][519]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (720)
+[2021.06.10-07.49.56:663][519]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (718)
+[2021.06.10-07.49.56:663][519]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (716)
+[2021.06.10-07.49.56:664][519]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (714)
+[2021.06.10-07.49.56:664][519]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (712)
+[2021.06.10-07.49.56:664][519]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (710)
+[2021.06.10-07.49.56:664][519]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (708)
+[2021.06.10-07.49.56:664][519]LogModuleManager: Shutting down and abandoning module PlanarCut (706)
+[2021.06.10-07.49.56:674][519]LogModuleManager: Shutting down and abandoning module CharacterAI (704)
+[2021.06.10-07.49.56:674][519]LogModuleManager: Shutting down and abandoning module TextureAlignMode (702)
+[2021.06.10-07.49.56:674][519]LogModuleManager: Shutting down and abandoning module BspMode (700)
+[2021.06.10-07.49.56:683][519]LogModuleManager: Shutting down and abandoning module PlacementMode (699)
+[2021.06.10-07.49.56:683][519]LogModuleManager: Shutting down and abandoning module GeometryMode (696)
+[2021.06.10-07.49.56:683][519]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (694)
+[2021.06.10-07.49.56:692][519]LogModuleManager: Shutting down and abandoning module SmartSnapping (692)
+[2021.06.10-07.49.56:692][519]LogModuleManager: Shutting down and abandoning module SessionServices (690)
+[2021.06.10-07.49.56:692][519]LogModuleManager: Shutting down and abandoning module MeshPaint (688)
+[2021.06.10-07.49.56:700][519]LogModuleManager: Shutting down and abandoning module ViewportSnapping (686)
+[2021.06.10-07.49.56:700][519]LogModuleManager: Shutting down and abandoning module ViewportInteraction (684)
+[2021.06.10-07.49.56:700][519]LogModuleManager: Shutting down and abandoning module ClothPainter (682)
+[2021.06.10-07.49.56:713][519]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (681)
+[2021.06.10-07.49.56:724][519]LogModuleManager: Shutting down and abandoning module LogVisualizer (678)
+[2021.06.10-07.49.56:740][519]LogModuleManager: Shutting down and abandoning module IntroTutorials (676)
+[2021.06.10-07.49.56:744][519]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (675)
+[2021.06.10-07.49.56:758][519]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (672)
+[2021.06.10-07.49.56:758][519]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (670)
+[2021.06.10-07.49.56:768][519]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (668)
+[2021.06.10-07.49.56:768][519]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (667)
+[2021.06.10-07.49.57:716][519]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (664)
+[2021.06.10-07.49.57:716][519]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (662)
+[2021.06.10-07.49.57:716][519]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (660)
+[2021.06.10-07.49.57:716][519]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (658)
+[2021.06.10-07.49.57:716][519]LogModuleManager: Shutting down and abandoning module TraceInsights (656)
+[2021.06.10-07.49.57:757][519]LogModuleManager: Shutting down and abandoning module TraceServices (655)
+[2021.06.10-07.49.57:764][519]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (652)
+[2021.06.10-07.49.57:777][519]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (650)
+[2021.06.10-07.49.57:777][519]LogModuleManager: Shutting down and abandoning module InputBindingEditor (648)
+[2021.06.10-07.49.57:787][519]LogModuleManager: Shutting down and abandoning module MergeActors (646)
+[2021.06.10-07.49.57:790][519]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (644)
+[2021.06.10-07.49.57:805][519]LogModuleManager: Shutting down and abandoning module LocalizationService (643)
+[2021.06.10-07.49.57:814][519]LogModuleManager: Shutting down and abandoning module HardwareTargeting (640)
+[2021.06.10-07.49.57:814][519]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (638)
+[2021.06.10-07.49.57:826][519]LogModuleManager: Shutting down and abandoning module UndoHistory (636)
+[2021.06.10-07.49.57:828][519]LogModuleManager: Shutting down and abandoning module XmlParser (634)
+[2021.06.10-07.49.57:834][519]LogModuleManager: Shutting down and abandoning module Blutility (632)
+[2021.06.10-07.49.57:834][519]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (630)
+[2021.06.10-07.49.57:834][519]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (629)
+[2021.06.10-07.49.57:835][519]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (626)
+[2021.06.10-07.49.57:835][519]LogModuleManager: Shutting down and abandoning module SettingsEditor (624)
+[2021.06.10-07.49.57:850][519]LogModuleManager: Shutting down and abandoning module ProjectLauncher (622)
+[2021.06.10-07.49.57:856][519]LogModuleManager: Shutting down and abandoning module SessionFrontend (620)
+[2021.06.10-07.49.57:868][519]LogModuleManager: Shutting down and abandoning module ProfilerClient (618)
+[2021.06.10-07.49.57:871][519]LogModuleManager: Shutting down and abandoning module DeviceManager (616)
+[2021.06.10-07.49.57:902][519]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (615)
+[2021.06.10-07.49.57:936][519]LogModuleManager: Shutting down and abandoning module AutomationController (612)
+[2021.06.10-07.49.57:940][519]LogModuleManager: Shutting down and abandoning module AutomationWindow (610)
+[2021.06.10-07.49.57:946][519]LogModuleManager: Shutting down and abandoning module Layers (608)
+[2021.06.10-07.49.57:954][519]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (606)
+[2021.06.10-07.49.57:954][519]LogModuleManager: Shutting down and abandoning module DetailCustomizations (604)
+[2021.06.10-07.49.57:954][519]LogModuleManager: Shutting down and abandoning module PackagesDialog (602)
+[2021.06.10-07.49.57:961][519]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (600)
+[2021.06.10-07.49.57:978][519]LogModuleManager: Shutting down and abandoning module Persona (598)
+[2021.06.10-07.49.58:057][519]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (597)
+[2021.06.10-07.49.58:057][519]LogModuleManager: Shutting down and abandoning module AnimGraph (595)
+[2021.06.10-07.49.58:065][519]LogModuleManager: Shutting down and abandoning module Kismet (592)
+[2021.06.10-07.49.58:097][519]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2021.06.10-07.49.58:160][519]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.063 s
+[2021.06.10-07.49.58:160][519]LogOutputDevice: Error: === Handled ensure: ===
+[2021.06.10-07.49.58:160][519]LogOutputDevice: Error: 
+[2021.06.10-07.49.58:160][519]LogOutputDevice: Error: Ensure condition failed: PinHelpers::NumPinsInMemory == 0 || PinHelpers::NumPinsInMemory == 1 [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/Engine/Private/EdGraph/EdGraphPin.cpp] [Line: 1325]
+[2021.06.10-07.49.58:161][519]LogOutputDevice: Error: 
+[2021.06.10-07.49.58:161][519]LogOutputDevice: Error: Stack: 
+[2021.06.10-07.49.58:161][519]LogOutputDevice: Error: [Callstack] 0x00007ffda6fca029 UE4Editor-Engine.dll!UnknownFunction []
+[2021.06.10-07.49.58:161][519]LogOutputDevice: Error: [Callstack] 0x00007ffda5da306d UE4Editor-Engine.dll!UnknownFunction []
+[2021.06.10-07.49.58:161][519]LogOutputDevice: Error: [Callstack] 0x00007ffda48a54c5 UE4Editor-Core.dll!UnknownFunction []
+[2021.06.10-07.49.58:161][519]LogOutputDevice: Error: [Callstack] 0x00007ff6b6d8af37 UE4Editor.exe!UnknownFunction []
+[2021.06.10-07.49.58:161][519]LogOutputDevice: Error: [Callstack] 0x00007ff6b6d8bb07 UE4Editor.exe!UnknownFunction []
+[2021.06.10-07.49.58:161][519]LogOutputDevice: Error: [Callstack] 0x00007ff6b6d8bb5a UE4Editor.exe!UnknownFunction []
+[2021.06.10-07.49.58:161][519]LogOutputDevice: Error: [Callstack] 0x00007ff6b6d9e31d UE4Editor.exe!UnknownFunction []
+[2021.06.10-07.49.58:161][519]LogOutputDevice: Error: [Callstack] 0x00007ff6b6da145a UE4Editor.exe!UnknownFunction []
+[2021.06.10-07.49.58:161][519]LogOutputDevice: Error: [Callstack] 0x00007ffe49ed7034 KERNEL32.DLL!UnknownFunction []
+[2021.06.10-07.49.58:161][519]LogOutputDevice: Error: [Callstack] 0x00007ffe4a862651 ntdll.dll!UnknownFunction []
+[2021.06.10-07.49.58:161][519]LogOutputDevice: Error: 
